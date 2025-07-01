@@ -1,0 +1,74 @@
+NIM,NAMA,JK,Asal Sekolah,Jurusan,Tahun Lulus,Tahun Masuk D4,Masa Studi,Usia pada saat Lulus D4,IPS1,IPS2,IPS3,IPS4,IPS5,IPS6,IPS7,IPK8,Status Cuti
+18090044,Ilham Akhsani,L,Smk Maarif Nu 03 Larangan,Multimedia,2018,2018,4.0,,3.57,3.9,3.48,3.77,3.57,3.57,3.25,3.6,0
+18090057,Qirani Rifa Annisa,P,Smk N 3 Tegal,Tkj,2018,2018,4.0,,3.71,3.9,3.65,3.86,3.33,3.76,3.83,3.73,0
+18090090,Rina Listiana,P,Smk N 1 Slawi,Tkj,2018,2018,4.0,,4.0,4.0,3.78,3.77,3.43,3.62,3.83,3.76,0
+18090095,Fauziah Nur Zaerina Eriyadi,P,Sma N 2 Brebes,Ips,2017,2018,4.0,,3.76,4.0,3.48,3.64,3.33,3.1,3.42,3.52,0
+18090138,Hafizh Umar Syafiqh,L,Man 1 Tangerang,Ipa,2018,2018,4.0,,3.67,3.7,3.48,3.55,3.24,3.19,3.67,3.49,0
+16090065,Intan Dwi Oktavia,P,Sma Negeri 4 Tegal,Mia/Ipa,2016,2016,7.0,,3.81,3.85,3.43,3.5,3.38,3.48,3.33,3.51,1
+16090091,Azhar Haeza Faunsyah Rahman,L,Smk Muhammadiyah 1 Kota Tegal,Multimedia,2016,2016,7.0,,3.52,3.8,3.48,3.45,3.52,3.1,3.42,3.39,1
+17090030,Agung Sahrul Bahri,L,Smk Bhakti Praja Dukuhwaru,Teknik Komputer Dan Jaringan,2017,2017,6.0,,3.24,3.35,2.96,3.36,2.95,3.38,3.83,3.22,1
+17090071,Kurniawan,L,Man 2 Tegal,Ipa,2017,2017,6.0,,2.81,3.0,2.83,3.0,2.9,2.76,3.58,2.95,1
+17090129,Dedi Nugroho,L,Sma N 2 Tegal,Ips,2017,2017,6.0,,3.57,3.65,3.39,3.77,2.9,3.19,3.83,3.44,1
+18090023,Getar Jagat Dewantara,L,Sma N 1 Dukuhwaru,Ips,2018,2018,5.0,,3.33,3.5,3.48,3.41,3.24,3.14,3.0,3.3,1
+18090072,Rizqi Surowati,P,Smk N 1 Brebes,Akuntansi,2016,2018,5.0,,3.81,3.9,3.26,3.41,3.19,3.76,3.42,3.52,1
+18090092,Risnanda Hasna Mufida,P,Sma Bu Nu Bumiayu,Ipa,2018,2018,5.0,,3.52,3.6,3.04,3.27,2.95,3.0,3.5,3.25,1
+18090116,Oktavia Dwi Mulyaningsih,P,Sma Negeri 1 Banjarharjo,Ips,2018,2018,5.0,,3.67,3.75,3.52,3.64,3.1,3.14,3.17,3.42,1
+19090010,Ariffulah,L,Man Pemalang,Ips,2019,2019,4.0,,3.57,3.5,3.55,3.48,3.61,3.64,4.0,3.58,0
+19090012,Arief Rachman,L,Sman 4 Tegal,Ips,2019,2019,4.0,,3.9,3.65,3.77,3.52,3.74,3.5,3.8,3.71,0
+19090023,Muchammad Nachirul Ichsan,L,Sma N 4 Tegal,Ips,2018,2019,4.0,,3.67,4.0,4.0,3.62,3.83,3.5,4.0,3.8,0
+19090026,Hani Fadillah,P,Sma,Ips,2019,2019,4.0,,3.24,3.6,3.73,3.14,3.35,3.0,3.6,3.36,0
+19090029,Nurlaela,P,Sma Negeri 1 Pangkah,Ipa,2019,2019,4.0,,3.76,3.75,3.77,3.71,4.0,3.77,4.0,3.79,0
+19090035,Kintan Fairuzia,P,Smkn 1 Tonjong,Tav,2019,2019,4.0,,3.43,3.9,3.64,3.43,3.26,3.14,3.8,3.48,0
+19090036,Muhamad Zaim Zamzami,L,Smk Negeri 1 Slawi,Rekayasa Perangkat Lunak,2018,2019,4.0,,3.9,3.9,3.77,4.0,3.91,3.45,4.0,3.85,0
+19090041,Musnadil Firdaus,L,Sma N 3 Tegal,Ips,2019,2019,4.0,,4.0,3.9,3.86,3.62,4.0,3.91,4.0,3.9,0
+19090042,Dwi Ayu Wardani,P,Sma N 1 Dukuhwaru,Ips,2018,2019,4.0,,3.67,3.75,3.32,3.24,3.13,3.23,3.8,3.37,0
+19090043,Insan Maulana,L,Smk Al Hikmah 2 Benda,Teknik Komputer Jaringan,2018,2019,4.0,,3.57,3.75,3.55,3.38,3.26,3.77,4.0,3.54,0
+19090061,Aji Bagus Setiawan,L,Smk N 1 Adiwerna,Audio Video Engineering,2018,2019,4.0,,3.86,4.0,3.86,3.76,4.0,3.91,4.0,3.91,0
+19090063,Arwinda Laurisma,P,Smk N 2 Tegal,Pemasaran,2019,2019,4.0,,3.67,3.65,3.64,3.67,3.61,3.36,3.0,3.54,0
+19090064,Muhamad Ilham Maulana Fajar Sidiq,L,Smk Al-Irsyad Tegal,Rekayasa Perangkat Lunak,2019,2019,4.0,,3.67,3.7,3.64,3.62,3.61,3.64,3.6,3.61,0
+19090074,M. Galih Fikran Syah,L,Smkn 1 Adiwerna,Teknik Komputer Jaringan,2019,2019,4.0,,4.0,3.85,3.73,3.9,3.52,3.55,3.8,3.76,0
+19090079,Risky Halaliyah,P,Smks Nu 1 Slawi,Administrasi Perkantoran,2019,2019,4.0,,3.57,3.65,3.18,2.95,3.35,3.27,3.8,3.36,0
+19090094,Alfin Auzikri,L,Sman 4 Tegal,Mipa,2019,2019,4.0,,4.0,4.0,4.0,3.9,3.96,3.91,4.0,3.97,0
+19090097,Ika Bella Fitriani Putri,P,Sma N 1 Balapulang,Ipa,2019,2019,4.0,,3.62,3.85,3.27,3.38,3.7,3.41,3.8,3.54,0
+19090104,Faizal Aji Wibowo,L,Sma Negeri 4 Tegal,Mipa,2019,2019,4.0,,4.0,3.75,3.86,3.86,3.91,3.91,3.8,3.83,0
+19090107,Rizky Dwi Saputra,L,Sma N 3 Slawi,Ips,2019,2019,4.0,,3.48,3.7,3.41,3.33,3.91,3.36,3.6,3.52,0
+19090110,Gusti Robbani,L,Man Pemalang,Ipa,2018,2019,4.0,,3.19,3.55,3.41,2.48,3.0,2.73,3.6,3.09,0
+19090117,Mohamad Rizki Pratama,L,Smk Negeri 1 Adiwerna,Teknik Komputer Jaringan,2018,2019,4.0,,3.52,3.8,3.68,3.76,3.61,3.91,4.0,3.74,0
+19090119,Aulia Rizqisyarifa,P,Sma Negeri 1 Tegal,Ips,2019,2019,4.0,,3.52,3.8,3.59,3.76,3.74,3.86,4.0,3.71,0
+19090124,Syahrul Adi Mustofa,L,Smkn 1 Adiwerna,Teknik Audio Video,2019,2019,4.0,,3.48,3.65,3.73,3.24,3.57,3.23,3.2,3.5,0
+19090127,Miftakhul Anam,L,Sma Negeri 2 Brebes,Ips,2018,2019,4.0,,3.29,3.5,3.05,2.86,3.13,2.95,3.8,3.13,0
+19090137,Achmad Miftahudin,L,Sman 5 Tegal,Ipa,2019,2019,4.0,,3.57,3.85,3.82,3.86,3.87,3.73,4.0,3.81,0
+19090146,Garin Irsyad Choriri,L,Sma 1 Slawi,Ipa,2017,2019,4.0,,4.0,4.0,3.36,3.48,3.52,3.64,4.0,3.65,0
+18090122,Dimas Ilham Mardiyanto,L,Smk N 1 Slawi,Multimedia,2018,2018,6.0,,3.9,4.0,3.65,3.77,3.83,3.41,4.0,3.72,1
+19090021,M. Ndaru Sabitturahman,L,Sma Negeri 1 Dukuhwaru,Ips,2019,2019,5.0,,3.33,3.8,2.95,2.95,3.17,2.95,3.8,3.28,1
+19090075,Nur Khafidah,P,Smk N 1 Dukuhturi,Teknik Komputer Dan Jaringan,2019,2019,5.0,,4.0,3.75,3.73,3.67,3.87,3.77,4.0,3.77,1
+19090080,M. Salman Septianto,L,Man 1 Brebes,Ilmu Keagamaan,2018,2019,5.0,,3.38,3.55,3.0,3.0,2.87,2.59,3.0,2.99,1
+19090081,Miftakhul Nizar,L,Smk Karya Bhakti Brebes,Tkj,2019,2019,5.0,,3.76,3.65,3.77,3.62,3.48,3.09,4.0,3.56,1
+19090139,Shindy Millati Rachma,P,Fasf,Asfsa,2024,2019,5.0,,3.86,3.75,3.18,3.38,3.3,3.27,3.6,3.4,1
+19090142,M. Rizqi Fauzi Maksum,L,Smk Negeri 3 Kota Tegal,Teknik Komputer Jaringan,2019,2019,5.0,,3.24,3.0,2.77,3.05,3.09,3.14,3.6,3.04,1
+20090003,Firda Nur Falah,P,Smk Bhakti Praja Dukuhwaru,Teknik Komputer Jaringan,2019,2020,4.0,,3.65,3.5,3.59,3.76,3.35,3.36,3.8,3.54,0
+20090005,Ayikwati Muhfiyati,P,Smk Nu Hasyim Asy'Ari Tarub,Teknik Komputer Dan Jaringan,2019,2020,4.0,,3.5,3.3,3.45,3.86,3.61,3.73,3.6,3.57,0
+20090006,Rr. Niken Pambayun Dyah Setyawati,P,Smk (Stm) Bhakti Praja Dukuhwaru,Tkj,2020,2020,4.0,,3.8,3.7,3.5,3.9,3.48,3.5,3.8,3.64,0
+20090010,Reza Maulana Rizky,L,Sma N 1 Larangan,Ips,2020,2020,4.0,,3.05,2.65,3.41,3.0,3.7,2.86,3.6,3.14,0
+20090015,Ramanda Kholisandra,L,Smk Negeri 1 Pemalang,Teknik Komputer Dan Jaringan,2020,2020,4.0,,3.75,3.6,3.73,3.76,3.87,3.73,3.8,3.76,0
+20090017,Irfan Triadi Saputra,L,Sma Negeri 2 Pemalang,Ips,2019,2020,4.0,,3.65,3.8,3.86,4.0,4.0,3.86,4.0,3.89,0
+20090023,Muhammad Haris Fariyano,L,Pondok Pesantren Imam Asyafii Brebes,Ips,2019,2020,4.0,,3.05,2.75,3.55,3.81,3.39,3.45,3.8,3.38,0
+20090027,Sutrisno,L,Sma N 4 Tegal,Ips,2019,2020,4.0,,3.4,2.9,3.05,3.1,3.35,3.5,3.8,3.27,0
+20090028,Rizki Bimo Wijaya,L,Sma N 1 Pangkah,Ips,2020,2020,4.0,,3.4,3.45,3.73,3.9,3.74,3.73,4.0,3.67,0
+20090031,Muhammad Dani Haikal,L,Sma Negeri 2 Kota Tegal,Ipa,2020,2020,4.0,,3.15,2.7,3.27,3.57,3.61,3.86,3.8,3.41,0
+20090047,Esti Restia Ningrum,P,Smk Nu 1 Slawi,Tkj,2020,2020,4.0,,3.4,3.05,3.23,3.62,2.78,2.45,3.8,3.11,0
+20090058,Adhen Kurdi,L,Smk N 1 Brebes,Tkj,2020,2020,4.0,,3.35,3.55,3.41,3.9,3.83,3.73,3.8,3.63,0
+20090075,Bintang Indarto,L,Man 1 Tegal,Ipa,2020,2020,4.0,,2.65,2.1,2.77,2.9,3.26,2.73,3.8,2.84,0
+20090079,Aliza Fitri Adilla,P,Sman 01 Dukuhwaru,Ipa,2020,2020,4.0,,3.55,3.3,3.73,3.76,3.52,3.09,3.6,3.45,0
+20090080,Tegar Risqi Yulian Santoso,L,Sma N 2 Pemalang,Ips,2020,2020,4.0,,3.15,3.45,3.77,3.48,3.7,3.86,3.8,3.58,0
+20090086,Moh. Faizal Ilham Falakh,L,Smk Negeri 2 Adiwerna,Tkj (Teknik Komputer Dan Jaringan),2020,2020,4.0,,3.9,3.8,3.73,3.71,4.0,3.86,3.8,3.79,0
+20090093,Tri Almu'Amanah,P,Smk Nurul Ulum Lebaksiu,Teknik Komputer Dan Jaringan,2020,2020,4.0,,3.6,3.3,3.36,3.62,3.35,2.82,4.0,3.39,0
+20090096,Widya Kinnanti,P,Ma Al-Falah Jatirokeh,Agama,2019,2020,4.0,,3.6,3.3,3.41,3.38,3.0,3.32,3.6,3.35,0
+20090100,Wildan Rezi Ramdhani,L,Sma Negeri 2 Tegal,Ips,2020,2020,4.0,,3.45,3.3,3.5,3.43,3.35,3.41,3.8,3.43,0
+20090103,Zalfa Nadhifah,P,Sma N 1 Kramat,Ips,2020,2020,4.0,,3.2,2.9,3.5,3.29,3.39,3.32,3.8,3.29,0
+20090118,Salsa Dwi Nur Hidayah,P,Sma N 1 Dukuhwaru,Ipa,2019,2020,4.0,,3.5,3.2,3.5,4.0,3.74,3.86,4.0,3.65,0
+20090133,Ami Daelami Ichsana,P,Sma N 2 Tegal,Ips,2020,2020,4.0,,3.2,2.85,3.36,3.29,3.13,3.73,3.8,3.3,0
+20090135,Naovi Magfiroh,P,Sma Negeri 2 Brebes,Ipa,2020,2020,4.0,,3.8,3.4,3.73,3.86,3.74,3.73,4.0,3.75,0
+20090136,Muhammad Isa Nuruddin,L,Smk Bhakti Praja Dukuhwaru,Teknik Komputer Dan Jaringan,2020,2020,4.0,,3.55,2.8,3.27,3.14,3.52,3.14,3.8,3.29,0
+20090143,Zulfatun Nisa,P,Smk 2 Adiwerna,Teknik Komputer Jaringan,2020,2020,4.0,,3.3,3.15,3.27,3.76,3.26,3.5,3.0,3.35,0
+20090146,Nisa Ashfiyani,P,Sma Futuhiyyah Mranggen,Ipa,2020,2020,4.0,,3.15,3.05,3.14,3.33,3.74,3.36,3.6,3.32,0
