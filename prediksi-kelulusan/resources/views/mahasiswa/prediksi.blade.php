@@ -16,6 +16,14 @@
         <form method="POST" action="{{ route('prediksi.predict') }}">
             @csrf
             <div class="row">
+                <div class="col-md-4 mb-3">
+                    <label for="nama" class="form-label">Nama</label>
+                    <input type="text" class="form-control" value="{{ $mahasiswa->nama }}">
+                </div>
+                <div class="col-md-4 mb-3">
+                    <label for="nim" class="form-label">NIM</label>
+                    <input type="text" class="form-control" value="{{ $mahasiswa->nim }}">
+                </div>
                 <div class="col-md-3 mb-3">
                     <label>Umur</label>
                     <input type="number" name="umur" class="form-control" value="{{ $mahasiswa->umur }}">
