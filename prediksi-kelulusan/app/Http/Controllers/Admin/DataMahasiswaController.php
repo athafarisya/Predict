@@ -66,16 +66,35 @@ class DataMahasiswaController extends Controller
         $mahasiswaList = DataMahasiswa::all();
 
         foreach ($mahasiswaList as $mahasiswa) {
-            $response = Http::post($uri, [
-                "ips1" => $mahasiswa->ips1 ?? 0,
-                "ips2" => $mahasiswa->ips2 ?? 0,
-                "ips3" => $mahasiswa->ips3 ?? 0,
-                "ips4" => $mahasiswa->ips4 ?? 0,
-                "ips5" => $mahasiswa->ips5 ?? 0,
-                "ips6" => $mahasiswa->ips6 ?? 0,
-                "ips7" => $mahasiswa->ips7 ?? 0,
+            // Ambil nilai IPS
+            $ips = [
+                $mahasiswa->ips1,
+                $mahasiswa->ips2,
+                $mahasiswa->ips3,
+                $mahasiswa->ips4,
+                $mahasiswa->ips5,
+                $mahasiswa->ips6,
+                $mahasiswa->ips7,
+            ];
+
+            // Filter yang tidak null untuk hitung rata-rata
+            $ips_terisi = array_filter($ips, fn($val) => !is_null($val));
+            $rata_rata = count($ips_terisi) > 0 ? array_sum($ips_terisi) / count($ips_terisi) : 0.0;
+
+            // Isi nilai IPS dengan default rata-rata kalau null
+            $data = [
+                "ips1" => $mahasiswa->ips1 ?? $rata_rata,
+                "ips2" => $mahasiswa->ips2 ?? $rata_rata,
+                "ips3" => $mahasiswa->ips3 ?? $rata_rata,
+                "ips4" => $mahasiswa->ips4 ?? $rata_rata,
+                "ips5" => $mahasiswa->ips5 ?? $rata_rata,
+                "ips6" => $mahasiswa->ips6 ?? $rata_rata,
+                "ips7" => $mahasiswa->ips7 ?? $rata_rata,
                 "masa_studi" => (int) ($mahasiswa->masa_studi ?? 0),
-            ]);
+            ];
+
+            // Kirim ke endpoint
+            $response = Http::post($uri, $data);
 
             $hasil_predict = $response->json()['result']['prediction'];
 
@@ -85,6 +104,7 @@ class DataMahasiswaController extends Controller
                 'tanggal_prediksi' => Carbon::now()
             ]);
         }
+
 
         return redirect()->back()->with('success', 'Prediksi kelulusan berhasil diperbarui untuk semua mahasiswa.');
     }
